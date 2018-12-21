@@ -1,0 +1,11 @@
+name: assignment4-vis
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - networkx
+    - bokeh
+    - pandas
+    - holoviews
+    - xarray
+    - numpy
