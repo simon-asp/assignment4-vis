@@ -9,3 +9,4 @@ dependencies:
     - holoviews
     - xarray
     - numpy
+    - datashader
